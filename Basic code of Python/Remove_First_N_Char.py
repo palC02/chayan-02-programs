@@ -4,5 +4,5 @@ def remove_chars(word, n):
     return x
 
 print("Removing characters from a string")
-print(remove_chars("Chayan",13))
-print(remove_chars("Pal",10))
+print(remove_chars("Chayan",20))
+print(remove_chars("Pal",02))
